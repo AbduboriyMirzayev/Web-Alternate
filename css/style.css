@@ -1249,6 +1249,10 @@ a.cases__link {
   .we-work {
     display: none;
   }
+  .we-work-res {
+    display: block;
+  }
+
   .pay {
     display: none;
   }
